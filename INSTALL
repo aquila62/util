@@ -1,0 +1,23 @@
+Installing utilities:
+
+Be sure you have installed the X11 Library.
+
+sudo apt-get install libx11-dev
+
+Make shell scripts executable.
+
+chmod 755 *.sh
+
+Next compile the programs.
+
+./inst.sh
+
+To de-install utilities:
+
+./deinst.sh
+
+To see how to test utilities, read TESTING.
+
+To read about the utilities repository, read README.util.
+
+To see the aquila62 website, go to https://aquila62.github.io 

@@ -1,0 +1,16 @@
+The clock program draws an analog clock under X Windows.
+There is no parameter.
+
+./clock
+
+Press 'q' to quit.
+
+The output of clock is an analog clock with date and
+time also written in digital format.
+
+------------------------------------------------------
+
+Read INSTALL for installing the utilities package.
+
+The website for aquila62 is at https://aquila62.github.io.
+
